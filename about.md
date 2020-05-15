@@ -15,7 +15,7 @@ You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is 
 
 ##### may u needs ✨ -->
 
-### <u>Skills:</u>
+### Skills:
 ##### Languages:
 > <p style="text-align:left">C++</p>
 > <p style="text-align:left"> Python</p>
@@ -29,20 +29,12 @@ You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is 
 > <p style="text-align:left">MacOs</p>
 > <p style="text-align:left">Linux</p>
 
-***
-
-### <u>Accomplishments:</u>
+### Accomplishments:
 ##### ACM International Collegiate Programming Contest:
 - Southern California Regional (2017)
     > <p style="text-align:left">4th among 2-year colleges</p>
 
     > <p style="text-align:left">35th overall Scholarships</p>
 
-
 ##### Scholarship(s):
-- Southern California Edison STEM Student Success (IS4)
-
-***
-
-- {{ site.author.email }}
-- github.com/{{ site.author.username }}
+> <p style="text-align:left">Southern California Edison STEM Student Success (IS4)</p>

@@ -18,6 +18,10 @@
   url: https://www.linkedin.com/in/oscar-castaneda93/
   external: true
 
+- title: resume
+  url: 
+  external: false
+  
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise
