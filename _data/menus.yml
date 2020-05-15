@@ -6,6 +6,10 @@
   url: /about/
   external: false
 
+- title: resume
+  url: 
+  external: false
+
 - title: github
   url: https://github.com/ocastaneda3
   external: true
@@ -13,10 +17,6 @@
 - title: linkedin
   url: https://www.linkedin.com/in/oscar-castaneda93/
   external: true
-
-- title: resume
-  url: 
-  external: false
   
 # Example:
 # - title: github
