@@ -7,8 +7,8 @@
   external: false
 
 - title: resume
-  url: 
-  external: false
+  url: /assets/pdf/OscarCastaneda_Resume.pdf
+  external: true
 
 - title: github
   url: https://github.com/ocastaneda3
