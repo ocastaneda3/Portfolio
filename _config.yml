@@ -79,6 +79,8 @@ exclude:
   - node_modules
   - CODE_OF_CONDUCT.md
 
+exclude: [vendor]
+
 # Plugins
 plugins:
   - jekyll-feed
