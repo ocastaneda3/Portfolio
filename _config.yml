@@ -78,8 +78,7 @@ exclude:
   - README.md
   - node_modules
   - CODE_OF_CONDUCT.md
-
-exclude: [vendor]
+  - [vendor]
 
 # Plugins
 plugins:
